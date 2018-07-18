@@ -1,8 +1,6 @@
 # Training Rewards
 
-Busy is an Open Source social network and communications platform which extends itself to a variety of rich features and functionality including free digital payments and a marketplace for goods and services.
-
-For more info: https://busy.org/@busy.org
+Training Rewards is aimed at rewarding users for training they have completed.
 
 ## Quick Setup
 
