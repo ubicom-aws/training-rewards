@@ -12,6 +12,8 @@ yarn
 yarn dev
 ```
 
+Access local instance from http://localhost:3000.
+
 ## Production build
 
 ```bash
